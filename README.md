@@ -2,7 +2,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Las_Vegas_slot_machines.jpg" width="300px" />
 
-Our solution for Lab 8 Multi-Armed Bandid of the Machine Learning for Economists class WS20/21.
+Our solution for Lab 8 – Multi-Armed Bandit of the Machine Learning for Economists class WS20/21.
 
 ## How to get started?
 To get this respository running you need to first set up your environment:
