@@ -12,7 +12,7 @@ make create_environment
 Afterwards, we need to switch to the virtual environment and need resolve the Python dependencies:
 
 ````shell
-source activate routines-mining
+source activate ml4e-multi-armed-bandit
 make requirements
 ````
 
