@@ -16,3 +16,6 @@ source activate ml4e-multi-armed-bandit
 make requirements
 ````
 --------
+
+## Where is the code?
+The code can be found in the Jupyter notebook __Lab8_MultiArmedBandits_MM_PB__.
