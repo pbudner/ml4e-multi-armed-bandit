@@ -18,4 +18,4 @@ make requirements
 --------
 
 ## Where is the code?
-The code and solution can be found in the following Jupyter notebook: <a href="Lab8_MultiArmedBandits_MM_PB.ipynb">Click here</a>.
+The code and solution can be found in the following Jupyter notebook: <a href="Lab8_MutiArmedBandits.ipynb">Click here</a>.
